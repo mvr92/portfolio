@@ -3,33 +3,14 @@ body{
 }
 
 #container{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    border-radius: 10px;
-    background-color: rgb(33, 80, 80);
-    margin: 0.5em;
+    width: 70%;
+    padding: 1em;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: left;
+    margin: 0 auto;
 }
 
-#post{
-    color: white;
-    margin: 1em; 
-}
+#container h1{
+    font-size: 20px;
 
-h1{
-    background-color: black;
-    margin: 0;
-}
-
-header{
-    text-align: center;
-    background-color: blue;
-    color: white;
-    font-size: xx-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-footer{
-    text-align: center;
-    color: white;
-    background-color: black;
-    font-size: x-large;
 }
